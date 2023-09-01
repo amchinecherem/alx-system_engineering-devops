@@ -1,0 +1,1 @@
+Alx readme for shell basic
